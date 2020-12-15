@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BXHLibraryExtension_Tests' do
+  pod 'BXHLibraryExtension', :path => '../'
+  
+  
+end
