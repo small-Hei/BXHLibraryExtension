@@ -1,0 +1,22 @@
+{
+  "name": "BXHLibraryExtension",
+  "version": "0.1.0",
+  "summary": "A short description of BXHLibraryExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/17602102652@163.com/BXHLibraryExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "17602102652@163.com": "baishuang@yit.com"
+  },
+  "source": {
+    "git": "https://github.com/17602102652@163.com/BXHLibraryExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BXHLibraryExtension/Classes/**/*"
+}

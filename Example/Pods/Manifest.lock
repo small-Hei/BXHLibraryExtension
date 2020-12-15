@@ -1,0 +1,16 @@
+PODS:
+  - BXHLibraryExtension (0.1.0)
+
+DEPENDENCIES:
+  - BXHLibraryExtension (from `../`)
+
+EXTERNAL SOURCES:
+  BXHLibraryExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BXHLibraryExtension: 060271869b9dfed70c0a394241326b7940c4fc3e
+
+PODFILE CHECKSUM: 5f1dce5b76ef59153a5a30943718c1d090599fb4
+
+COCOAPODS: 1.9.3

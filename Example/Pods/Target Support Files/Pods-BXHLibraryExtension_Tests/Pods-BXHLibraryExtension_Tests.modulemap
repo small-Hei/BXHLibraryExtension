@@ -1,0 +1,6 @@
+framework module Pods_BXHLibraryExtension_Tests {
+  umbrella header "Pods-BXHLibraryExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
